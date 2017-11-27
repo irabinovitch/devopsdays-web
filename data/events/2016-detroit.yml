@@ -12,7 +12,7 @@ coordinates: "42.331034, -83.046382" # The corrodinates of your venue. Get Latit
 location: " A. Alfred Taubman Center for Design Education, College for Creative Studies" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: contact
   - name: location
   - name: registration
@@ -47,7 +47,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: chef
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: gold
   - id: 2016-compuware
     level: gold

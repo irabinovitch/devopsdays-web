@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html itemscope lang="{{ .Site.LanguageCode }}">
+<head>
+    {{- partial "head.html" . -}}
+</head>
+<body lang="{{ .Site.Params.Lang }}">
+  {{- partial "global_navbar.html" . -}}
+  {{ if and (eq (index (split (.Permalink | relURL) "/") 1) "events") (ne .Type "events") }}
+    {{- partial "events/event_navbar.html" . -}}
+  {{ end }}
+  <div class="container-fluid">
+        <div class="row">
+          {{- if .IsPage -}}
+            {{ if or (eq (index (split (.Permalink | relURL) "/") 1) "events") (eq .Type "events") }}
+              <div class="col-md-12">
+                  {{- block "main" . }} {{- end -}}
+              </div>
+            {{- else -}}
+              <div class="col-md-8 push-md-2">
+                  {{- block "main" . }} {{- end -}}
+              </div>
+              <div class="col-md-2 pull-md-8">
+                  <a href = "{{ "events" | absURL }}" class="left-nav-navs">PAST EVENTS</a><br />
+                  {{- partial "future.html" . -}}
+              </div>
+            {{- end -}}
+          {{- else -}}
+            <div class="col-md-8 push-md-2">
+                {{- block "main" . }} {{- end -}}
+            </div>
+            <div class="col-md-2 pull-md-8">
+                <a href = "{{ "events" | absURL }}" class="left-nav-navs">PAST EVENTS</a><br />
+                {{- partial "future.html" . -}}
+            </div>
+        {{- end -}}
+        </div>
+      </div>
+    {{- partial "footer.html" . -}}
+    {{- partial "footer_scripts.html" . -}}
+</body>
+</html>

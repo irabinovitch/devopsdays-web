@@ -2,7 +2,8 @@
 date = "2016-09-05T09:42:50+03:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2016-moscow"]
+aliases = ["/events/2017-moscow"]
+Description = "devopsdays Moscow 2017"
 
 +++
 
@@ -70,7 +71,7 @@ aliases = ["/events/2016-moscow"]
   <div class = "col-md-8">
     <a href="/events/2017-moscow/Sponsorship-information-DevOpsDays-Moscow-2017.pdf" target="_blank">Sponsor the conference!</a>
 	<br/>
-	<a href="/events/2017-moscow/Как-стать-партнером-международной-конференции-DevOpsDays-Moscow-2017.pdf" target="_blank"><em>Станьте спонсором!</em></a>
+	<a href="/events/2017-moscow/Презентация-для-спонсоров-мероприятия-DevOpsDays-Moscow-2017.pdf" target="_blank"><em>Станьте спонсором!</em></a>
   </div>
 </div>
 
@@ -96,8 +97,8 @@ aliases = ["/events/2016-moscow"]
     </em>
   </div>
 </div>
-<!-- add your city twitter name here without the @ sign -->
+
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->
 

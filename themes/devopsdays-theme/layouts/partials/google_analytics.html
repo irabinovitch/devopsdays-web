@@ -1,0 +1,17 @@
+<!-- Google Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', '{{ $.Site.GoogleAnalytics }}', 'auto');
+ga('send', 'pageview');
+{{ if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program")}}
+  {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+  {{ if $e.ga_tracking_id }}
+    {{ if ne $e.ga_tracking_id "" }}
+      ga('create', '{{$e.ga_tracking_id}}', 'auto', 'clientTracker');
+      ga('clientTracker.send', 'pageview');
+    {{ end }}
+  {{ end }}
+{{ end }}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->

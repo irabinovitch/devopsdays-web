@@ -12,7 +12,7 @@ coordinates: "39.739236, -104.990251" # The corrodinates of your venue. Get Lati
 location: "Denver" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: contact
   - name: sponsor
   - name: speakers
@@ -72,7 +72,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: regis
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: silver
   - id: github
     level: silver

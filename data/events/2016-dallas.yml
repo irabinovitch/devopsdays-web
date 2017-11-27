@@ -12,7 +12,7 @@ coordinates: "32.7767, -96.7970" # The corrodinates of your venue. Get Latitude 
 location: "Grapevine Convention Center, 1209 S. Main Street, Grapevine, TX 76051" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: contact
   - name: location
   - name: program
@@ -40,7 +40,7 @@ proposal_email: "proposals-dallas-2016@devopsdays.org" # Put your proposal email
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: chef
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: platinum
   - id: veracode
     level: platinum

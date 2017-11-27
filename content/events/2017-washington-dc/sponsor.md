@@ -108,6 +108,16 @@ Please contact us at {{< email_organizers >}}.
 </tbody>
 </table>
 
+__Existing sponsors wishing to ship materials to the event__ may ship to:
+
+CapitalOne<br>
+1680 Capital One Drive<br>
+McLean VA  22102<br>
+attention: Beverly Rogers
+
+_These items should be received not before July 10._ Sponsors may set up at
+Capital One on _July 16_ from 2:00-4:00 PM.
+
 We greatly value sponsors for this open event. If you are interested in other
 types of sponsorships, please contact us directly at {{< email_organizers >}}.
 
@@ -115,6 +125,31 @@ DevOps Days is not 'that kind of conference' and heavy marketing will probably
 work against you when trying to make a good impression on the attendees. Contact
 {{< email_organizers >}} for some ideas about how to make the most of
 your sponsorship.
+
+[Sponsor DevOpsDays Washington DC now](https://devopsdaysdc2017.busyconf.com/bookings/new?discount=SPONSOR).
+
+### Platinum - $5,000
+
+* All benefits of Gold sponsors
+* 1 minute pitch to full audience, including streaming audience
+* 2 additional tickets, 4 in total
+* Dedicated table for swag
+* **[Become a Platinum Sponsor now](https://devopsdaysdc2017.busyconf.com/bookings/new?discount=SPONSOR).**
+
+### Gold - $3,000
+
+* All benefits of Silver sponsors
+* Logo on all email communication
+* 1 additional ticket, 2 in total
+* Shared table for swag
+* **[Become a Gold Sponsor now](https://devopsdaysdc2017.busyconf.com/bookings/new?discount=SPONSOR).**
+
+### Silver - $1,000
+
+* 1 included ticket
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays DC 2017 event website
+* **[Become a Silver Sponsor now](https://devopsdaysdc2017.busyconf.com/bookings/new?discount=SPONSOR).**
 
 ### Community - $0
 
@@ -143,26 +178,6 @@ Community Sponsor.
 * Logo on DevOpsDays DC 2017 event website
 * Please contact {{< email_organizers >}} for details about becoming a media
 sponsor.
-
-### Silver - $1,000
-
-* 1 included ticket
-* Logo on shared slide, rotating during breaks
-* Logo on DevOpsDays DC 2017 event website
-
-### Gold - $3,000
-
-* All benefits of Silver sponsors
-* Logo on all email communication
-* 1 additional ticket, 2 in total
-* Shared table for swag
-
-### Platinum - $5,000
-
-* All benefits of Gold sponsors
-* 1 minute pitch to full audience, including streaming audience
-* 2 additional tickets, 4 in total
-* Dedicated table for swag
 
 We greatly value sponsors for this open event. If you are interested in other
 types of sponsorships, please contact us directly at {{< email_organizers >}}.

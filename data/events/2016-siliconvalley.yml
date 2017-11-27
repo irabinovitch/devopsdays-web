@@ -15,7 +15,7 @@ team: ["Jennifer Davis", "Rob Berger", "Jamesha Fisher", "Linda Laubenheimer", "
 organizer_email: "organizers-siliconvalley-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-siliconvalley-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: bigpanda
+  - id: bigpanda-before-20171017
     level: gold
   - id: deis
     level: gold
@@ -29,11 +29,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: redislabs
     level: gold
-  - id: signalfx
+  - id: signalfx-before-20170602
     level: silver
   - id: kontena
     level: silver
-  - id: 2016-platform9
+  - id: platform9-before-20170609
     level: silver
   - id: extrahop
     level: silver
@@ -85,7 +85,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Community
 
 nav_elements: # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-  - name: welcome
+ 
   - name: contact
   - name: location
   - name: registration

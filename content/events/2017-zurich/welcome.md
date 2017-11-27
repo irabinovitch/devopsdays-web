@@ -2,20 +2,18 @@
 date = "2016-07-20T13:45:44+02:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2017-zuerich"]
+aliases = ["/events/2017-zurich"]
+Description = "devopsdays Zürich 2017"
 
 +++
 
-<!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopszh >}}
-
-**DevOpsDays is coming to {{< event_location >}}**
-
 <h3>{{< event_start >}} - {{< event_end >}}</h3>
-
 
 <img src="/events/2017-zurich/logo.png" style="float:center"/>
 
+<strong>
+  In 2017 DevOpsDays is coming to Switzerland for the first time!
+</strong>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -25,8 +23,6 @@ aliases = ["/events/2017-zuerich"]
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
-
-
 
 <div class = "row">
   <div class = "col-md-2">
@@ -51,7 +47,7 @@ aliases = ["/events/2017-zuerich"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    Call for proposals is now closed.
   </div>
 </div>
 
@@ -87,6 +83,18 @@ aliases = ["/events/2017-zuerich"]
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Get in touch with the organizers" >}}<br>
+    {{< event_twitter >}}
   </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Event impressions</strong>
+  </div>
+  <div class = "col-md-8">
+   <a href="https://vimeo.com/219050548">Checkout our video!</a><br> 
+   <a href="https://www.flickr.com/photos/150616602@N02/albums/72157683712222866">Checkout our Photo Gallery</a>
+  </div>
+
 </div>
