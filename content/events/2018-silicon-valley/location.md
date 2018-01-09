@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "devopsdays siliconvalley 2018 being held at Computer History Museum"
+Description = "devopsdays silicon-valley 2018 being held at Computer History Museum"
 +++
 
 <a href="http://www.computerhistory.org/">Computer History Museum</a>
