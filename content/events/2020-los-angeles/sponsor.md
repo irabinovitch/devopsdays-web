@@ -15,22 +15,20 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
-<!--
 <hr/>
 
 <div style="width:590px">
 <table border=1 cellspacing=1>
   <tr>
     <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
+    <th><center><b><u>Startup<br />1000 usd</u></center></b></th>
+    <th><center><b><u>Silver<br />2000 usd</u></center></b></th>
+    <th><center><b><u>Gold<br />3000 usd</u></center></b></th>
     <th></th>
   </tr>
 <tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
 <tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
@@ -42,7 +40,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
 <br/>
 <br/>
-
+<!--
 <br>
 <br>
 <table border=1 cellspacing=1>
@@ -51,7 +49,7 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
     <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
     <th></th>
   </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
+<Q<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
 <tr><td>How do we ship to the venue?</td><td></td></tr>
 <tr><td>How do we ship from the venue?</td><td></td></tr>
 <tr><td>Whom should we send?</td><td></td></tr>
@@ -60,7 +58,6 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 <tr><td>How do we order additional A/V equipment?</td><td></td></tr>
 <tr><td>Additional important details</td><td></td></tr>
 </table>
-</div>
-
 -->
+</div>
 <hr/>
