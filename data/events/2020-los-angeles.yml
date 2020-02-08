@@ -91,6 +91,8 @@ sponsors:
     level: gold
   - id: d2iq
     level: gold
+  - id: effx
+    level: gold
   - id: eliassen-group
     level: silver
   - id: gitlab
@@ -103,6 +105,8 @@ sponsors:
     level: gold
   - id: logz
     level: silver  
+  - id pulumi
+    level: gold
   - id: phoenixnap
     level: silver
   - id: site24x7
